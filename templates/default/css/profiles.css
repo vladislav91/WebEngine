@@ -1,3 +1,19 @@
+/*!
+    
+ =========================================================
+ * WebEngine CMS
+ * https://webenginecms.org/
+ =========================================================
+ 
+ * Author Lautaro Angelico (https://lautaroangelico.com/)
+ * Copyright (c) 2013-2020 Lautaro Angelico, All Rights Reserved
+ 
+ * Licensed under the MIT license
+ * http://opensource.org/licenses/MIT
+ 
+ =========================================================
+ 
+*/
 /* GUILD PROFILES */
 .profiles_guild_card {
 	width: 100%;
@@ -69,6 +85,8 @@
 	.RF.profiles_player_card, .FM.profiles_player_card, .FB.profiles_player_card { background: url('../img/profiles/rf.jpg') no-repeat; background-size: cover; }
 	.GL.profiles_player_card, .ML.profiles_player_card, .SL.profiles_player_card { background: url('../img/profiles/gl.jpg') no-repeat; background-size: cover; }
 	.RW.profiles_player_card, .RSM.profiles_player_card, .GRM.profiles_player_card { background: url('../img/profiles/rw.jpg') no-repeat; background-size: cover; }
+	.SLR.profiles_player_card, .SLRR.profiles_player_card, .MSLR.profiles_player_card, .SLTR.profiles_player_card { background: url('../img/profiles/sl.jpg') no-repeat; background-size: cover; }
+	.GC.profiles_player_card, .GB.profiles_player_card, .MGB.profiles_player_card, .HGC.profiles_player_card { background: url('../img/profiles/gc.jpg') no-repeat; background-size: cover; }
 
 .profiles_player_content {
 	float: right;
